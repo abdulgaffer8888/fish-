@@ -1,0 +1,17 @@
+.css-5nwj3y a {
+  text-decoration: none;
+  color: var(--primary-color);
+  padding: 30px 0px;
+  border-bottom: 2px solid transparent;
+  transition: 0.4s;
+}
+* {
+  font-family: poppins !important;
+}
+.css-5nwj3y a:hover {
+  color: var(--secondary-color);
+}
+.css-6hp17o-MuiList-root-MuiMenu-list li a {
+  text-decoration: none;
+  color: gray;
+}

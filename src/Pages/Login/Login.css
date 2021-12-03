@@ -1,0 +1,22 @@
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root:after {
+  border-bottom: 2px solid var(--primary-color);
+}
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root:before {
+  border-bottom: 1px solid var(--primary-color) !important;
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+  background-color: #e0f3ff63;
+}
+.loginformsizecontrol {
+  margin: auto;
+}
+@media screen and (max-width: 468px) {
+  form.loginformsizecontrol {
+    width: 300px !important;
+    margin: auto;
+    display: block;
+  }
+  img.loginimgsizecontrol {
+    width: 300px !important;
+  }
+}

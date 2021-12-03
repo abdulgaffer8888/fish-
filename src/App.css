@@ -1,0 +1,29 @@
+:root {
+  --primary-color: #da372f;
+  --secondary-color: #0b6885;
+  --third-color: #062228;
+  --body-text-color: rgb(118 118 118);
+}
+* {
+  font-family: poppins !important;
+}
+.swal2-actions .swal2-styled.swal2-confirm {
+  background-color: var(--secondary-color) !important;
+}
+.swal2-icon.swal2-error {
+  border-color: var(--primary-color) !important;
+  color: var(--primary-color) !important;
+}
+.swal2-x-mark span.swal2-x-mark-line-left {
+  background-color: var(--primary-color) !important;
+}
+.swal2-x-mark span.swal2-x-mark-line-right {
+  background-color: var(--primary-color) !important;
+}
+h2.swal2-title {
+  color: var(--primary-color);
+}
+
+.css-480o17-MuiGrid-root {
+  margin-left: 0px !important;
+}
